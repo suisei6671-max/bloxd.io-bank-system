@@ -1,3 +1,8 @@
+/*MIT License
+Copyright (c) 2025 彗星
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+*/
+
 globalThis.costList = {
 	"Diamond" : 1,
 	"Gold Bar" : 50
